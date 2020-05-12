@@ -92,7 +92,7 @@ int main()
     bool trans = (TransitiveCheck(arrM,n));
 
     cout<<endl;
-    cout<<"Sym "<<sym<<endl<<"refl "<<refl<<endl<<"trans "<<trans<<endl;
+    cout<<"Symmetric "<<sym<<endl<<"Reflexive "<<refl<<endl<<"Transitive "<<trans<<endl;
     cout<<endl;
 
     if(sym&&refl&&trans)
