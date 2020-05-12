@@ -74,12 +74,12 @@ int main()
     cout<<"Size of Relation\n";
     int n;
     cin>>n;
-    cout<<"Enter the element array a\n";
+    cout<<"Enter the element array ai\n";
     for(int i=0;i<n;i++)
     {
         cin>>arr1[i];
     }
-    cout<<"Enter the element array b\n";
+    cout<<"Enter the element array bi\n";
     for(int i=0;i<n;i++)
     {
         cin>>arr2[i];
