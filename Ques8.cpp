@@ -114,9 +114,9 @@ int main()
     int n = Intersection(n1,n2,arr1,arr2);
     Union(n1,n2,arr1,arr2);
     cout<<"n(AUB) = n(A) + n(B) - n(A^B) where ^ is intersection\n";
-    cout<<"According to Inclusion Exclusion Principle: "<<n1+n2-n<<endl<<endl;
+    cout<<"According to Inclusion Exclusion Principle n(AUB): "<<n1+n2-n<<endl<<endl;
     int N;
-    cout<<"Enter the limiting Value\n";
+    cout<<"Enter the limiting Value for divisors\n";
     cin>>N;
     int a,b;
     cout<<"Enter the value of a and b\n";
