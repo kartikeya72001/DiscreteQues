@@ -142,4 +142,5 @@ int main()
 /*
 ((aIb)B((Nb)I(Na)))
 (aO(Na))
+((aA(aIb))I(Nb))
 */

@@ -262,3 +262,8 @@ int main()
     cout<<"Kartikeya Agarwal\n2019UCO1692";
     return 0;
 }
+
+/*
+2 -1 1 * Group
+4 1 2 3 5 + Not a Group
+*/

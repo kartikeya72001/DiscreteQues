@@ -82,18 +82,25 @@ int main()
     int large = arr[n-1];
     cout<<"Maximum Element: "<<large<<endl;
     ObtainDiv(large);
+    //cout<<endl;
+    //int noP = Prime(arr,n);
 
-    int noP = Prime(arr,n);
-
-   if((noP>1 && Checker(arr,n)) || noP<=1)
-    {
+   //if((Checker(arr,n)))
+    //{
         if(CheckLattice(arr,n))
             cout<<"Given Poset is a Lattice\n";
-    }
+    //}
 
     else
         cout<<"Not a Lattice\n";
-
+    cout<<endl;
     cout<<"Kartikeya Agarwal\n2019UCO1692";
     return 0;
 }
+/*
+6
+1 2 3 6 8 12
+
+7
+1 2 4 6 8 24 48
+*/

@@ -130,3 +130,7 @@ int main()
     cout<<"Kartikeya Agarwal\n2019UCO1692";
     return 0;
 }
+/*
+3 -1 0 1
+5 -1 1 -2 2 0
+*/
