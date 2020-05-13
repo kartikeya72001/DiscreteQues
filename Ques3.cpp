@@ -139,3 +139,7 @@ int main()
     cout<<"Kartikeya Agarwal\n2019UCO1692";
     return 0;
 }
+/*
+((aIb)B((Nb)I(Na)))
+(aO(Na))
+*/
