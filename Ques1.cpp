@@ -66,7 +66,7 @@ void Addition(int n1, int n2, int *arr1, int *arr2)
     {
         for(int j=0;j<n2;j++)
         {
-            cout<<arr1[i]+arr2[j]<<" ";
+            cout<<arr1[i]+arr2[j]<<",";
             n++;
         }
     }
